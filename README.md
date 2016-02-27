@@ -1,2 +1,2 @@
 # hello-world
-blah
+Hi there!
